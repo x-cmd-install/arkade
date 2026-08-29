@@ -1,0 +1,58 @@
+about:
+  description: Open Source Marketplace For Developer Tools
+  license: MIT
+  homepage: https://blog.alexellis.io/kubernetes-marketplace-two-year-update/
+  head: 33a2800
+  archived: false
+  latestVersion: 0.11.125
+  collectedAt: 2026-08-29T06:58:39Z
+timeline:
+  created: 2020-02-26
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 4608
+  watcher: 39
+  fork: 300
+  release: 350
+  contributor: 91
+  pullRequest: 213
+  issue: 493
+language:
+  Go: 1047631
+  Shell: 7394
+  Makefile: 1739
+totalLine: 1056764
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 11
+    mergedPR: 11
+    openPR: 3
+    closedIssue: 0
+    openIssue: 1
+    commit: 37
+  last90d:
+    since: 2026-05-31
+    release: 26
+    mergedPR: 16
+    openPR: 3
+    closedIssue: 1
+    openIssue: 1
+    commit: 62
+  last180d:
+    since: 2026-03-02
+    release: 41
+    mergedPR: 17
+    openPR: 3
+    closedIssue: 1
+    openIssue: 2
+    commit: 87
+  last360d:
+    since: 2025-09-03
+    release: 80
+    mergedPR: 39
+    openPR: 4
+    closedIssue: 8
+    openIssue: 6
+    commit: 172
