@@ -7,7 +7,7 @@ about:
   head: 0a0a800
   archived: false
   latestVersion: 0.11.126
-  collectedAt: 2026-09-04T19:27:54Z
+  collectedAt: 2026-09-04T21:05:18Z
 timeline:
   created: 2020-02-26
   lastCommit: 2026-09-04
@@ -82,6 +82,64 @@ total:
   openIssue: 12
   commit: 1217
 ---
+path: /home/runner/.x-repo/github.com/alexellis/arkade
+collectedAt: 2026-09-04T21:05:20Z
+loc:
+  Go:
+    code: 323376
+    comments: 47324
+    blanks: 38391
+    files: 1064
+  AssemblyGAS:
+    code: 14190
+    comments: 1130
+    blanks: 2971
+    files: 44
+  Sh:
+    code: 1227
+    comments: 65
+    blanks: 104
+    files: 11
+  Makefile:
+    code: 264
+    comments: 8
+    blanks: 63
+    files: 8
+  Yaml:
+    code: 86
+    comments: 9
+    blanks: 17
+    files: 5
+  Bash:
+    code: 76
+    comments: 8
+    blanks: 13
+    files: 2
+  C:
+    code: 28
+    comments: 6
+    blanks: 10
+    files: 1
+  Hcl:
+    code: 22
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 8489
+    blanks: 3446
+    files: 74
+  Text:
+    code: 0
+    comments: 551
+    blanks: 41
+    files: 9
+total:
+  code: 343119
+  comments: 58106
+  blanks: 45722
+  files: 1220
 ---
 date: "2026-08-24"
 repo:
