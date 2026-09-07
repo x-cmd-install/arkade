@@ -5,13 +5,13 @@ about:
   head: 0a0a800
   archived: false
   latestVersion: "0.11.126"
-  collectedAt: 2026-09-07T05:00:05Z
+  collectedAt: 2026-09-07T19:45:55Z
 timeline:
   created: 2020-02-26
   lastCommit: 2026-09-04
   lastRelease: 2026-08-29
 popularity:
-  star: 4613
+  star: 4614
   watcher: 39
   fork: 299
   release: 351
@@ -81,7 +81,7 @@ total:
   commit: 1217
 ---
 path: /home/runner/.x-repo/github.com/alexellis/arkade
-collectedAt: 2026-09-07T05:00:08Z
+collectedAt: 2026-09-07T19:45:57Z
 loc:
   Go:
     code: 323376
@@ -238,7 +238,7 @@ checks:
       - 'Warn: 0 commits out of 22 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:00:08+00:00
+  collectedAt: 2026-09-07T19:45:58+00:00
   platform:
     darwin/arm64:
       name:  arkade-darwin-arm64
