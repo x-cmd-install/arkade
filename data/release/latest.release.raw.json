@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14733474,
       "digest": "sha256:479709908f32a79e716edd394a966e1689fddbea7eeee5e92056f8888293b8ec",
-      "download_count": 30448,
+      "download_count": 32980,
       "created_at": "2026-08-29T07:39:51Z",
       "updated_at": "2026-08-29T07:39:52Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.126/arkade"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13631650,
       "digest": "sha256:af268fa1f2fa0955749926d564916065478d432d7e1bfbdc23ed6e2802392aa1",
-      "download_count": 921,
+      "download_count": 1055,
       "created_at": "2026-08-29T07:39:53Z",
       "updated_at": "2026-08-29T07:39:54Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14287010,
       "digest": "sha256:b77c51c382c72434e91ab022114aa280f54dc2556ee1b5975f5133af6ab1f29c",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-29T07:39:54Z",
       "updated_at": "2026-08-29T07:39:55Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-armhf"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13996530,
       "digest": "sha256:825ae0e3da1e330cbccdc93f2aea8757fe790cfb89c783775bb51fd3572e361e",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-08-29T07:39:57Z",
       "updated_at": "2026-08-29T07:39:58Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-darwin-arm64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 15254016,
       "digest": "sha256:5b8316eed07f7a584edcdab8bdfe16e582db5ee7b1b001899c1e91a4c05fd1d3",
-      "download_count": 58,
+      "download_count": 60,
       "created_at": "2026-08-29T07:40:00Z",
       "updated_at": "2026-08-29T07:40:00Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.126/arkade.exe"
