@@ -7,7 +7,7 @@ about:
   latestVersion: "0.11.126"
   latestRelease: "0.11.126"
   latestPrerelease: "0.11.78"
-  collectedAt: 2026-09-10T05:14:32Z
+  collectedAt: 2026-09-10T16:39:29Z
 timeline:
   created: 2020-02-26
   lastCommit: 2026-09-04
@@ -85,7 +85,7 @@ total:
   commit: 1217
 ---
 path: /home/runner/.x-repo/github.com/alexellis/arkade
-collectedAt: 2026-09-10T05:14:34Z
+collectedAt: 2026-09-10T16:39:32Z
 loc:
   Go:
     code: 323376
