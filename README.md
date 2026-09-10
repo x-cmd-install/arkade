@@ -23,7 +23,23 @@ x install arkade
 - **Latest**: `0.11.126` (2026-08-29)
 - **Last commit**: 2026-09-04
 - **Assets in release**: 12
-- **Published**: 2026-08-29T07:37:43Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [arkade](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade) | 14.1 MiB | `other` |
+| [arkade-arm64](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-arm64) | 13.0 MiB | `other` |
+| [arkade-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-arm64.sha256) | 83 B | `other` |
+| [arkade-armhf](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-armhf) | 13.6 MiB | `other` |
+| [arkade-armhf.sha256](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-armhf.sha256) | 83 B | `other` |
+| [arkade-darwin](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-darwin) | 14.4 MiB | `native/darwin/x64` |
+| [arkade-darwin-arm64](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-darwin-arm64) | 13.3 MiB | `native/darwin/arm64` |
+| [arkade-darwin-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-darwin-arm64.sha256) | 90 B | `native/darwin/arm64` |
+| [arkade-darwin.sha256](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-darwin.sha256) | 84 B | `native/darwin/x64` |
+| [arkade.exe](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade.exe) | 14.5 MiB | `other` |
+| [arkade.exe.sha256](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade.exe.sha256) | 81 B | `other` |
+| [arkade.sha256](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade.sha256) | 77 B | `other` |
 
 ## Popularity
 
@@ -68,8 +84,8 @@ Lowest-scoring checks:
 Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `arkade` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/arkade.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/arkade.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:14:37Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:39:36Z._

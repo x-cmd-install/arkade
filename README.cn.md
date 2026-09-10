@@ -4,7 +4,7 @@
 
 Open Source Marketplace For Developer Tools
 
-![arkade](https://repo.x-cmd.io/arkade.svg)
+![arkade](https://repo.x-cmd.io/arkade.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,23 @@ x install arkade
 - **最新版本**: `0.11.126` (2026-08-29)
 - **最近提交**: 2026-09-04
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-08-29T07:37:43Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [arkade](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade) | 14.1 MiB | `other` |
+| [arkade-arm64](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-arm64) | 13.0 MiB | `other` |
+| [arkade-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-arm64.sha256) | 83 B | `other` |
+| [arkade-armhf](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-armhf) | 13.6 MiB | `other` |
+| [arkade-armhf.sha256](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-armhf.sha256) | 83 B | `other` |
+| [arkade-darwin](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-darwin) | 14.4 MiB | `native/darwin/x64` |
+| [arkade-darwin-arm64](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-darwin-arm64) | 13.3 MiB | `native/darwin/arm64` |
+| [arkade-darwin-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-darwin-arm64.sha256) | 90 B | `native/darwin/arm64` |
+| [arkade-darwin.sha256](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-darwin.sha256) | 84 B | `native/darwin/x64` |
+| [arkade.exe](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade.exe) | 14.5 MiB | `other` |
+| [arkade.exe.sha256](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade.exe.sha256) | 81 B | `other` |
+| [arkade.sha256](https://github.com/alexellis/arkade/releases/download/0.11.126/arkade.sha256) | 77 B | `other` |
 
 ## 流行度
 
@@ -72,4 +88,4 @@ arkade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:14:38Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:39:36Z._
