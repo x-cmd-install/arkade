@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14733474,
       "digest": "sha256:479709908f32a79e716edd394a966e1689fddbea7eeee5e92056f8888293b8ec",
-      "download_count": 36531,
+      "download_count": 37161,
       "created_at": "2026-08-29T07:39:51Z",
       "updated_at": "2026-08-29T07:39:52Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.126/arkade"

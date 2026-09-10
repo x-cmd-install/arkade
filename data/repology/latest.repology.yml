@@ -1,0 +1,141 @@
+- repo: homebrew
+  srcname: arkade
+  visiblename: arkade
+  version: 0.11.126
+  origversion: null
+  status: newest
+  summary: Open Source Kubernetes Marketplace
+- repo: aur
+  srcname: arkade-bin
+  binname: arkade-bin
+  visiblename: arkade-bin
+  version: 0.8.46
+  origversion: 1:0.8.46-1
+  status: outdated
+  summary: Your one-stop CLI for Kubernetes. provides a simple CLI with strongly-typed flags to install charts and apps to your cluster in one command.
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: arkade
+  visiblename: Arkade (Latest)
+  version: 0.11.126
+  origversion: null
+  status: newest
+  summary: arkade - The Open Source Kubernetes Marketplace
+- repo: exherbo
+  subrepo: kde
+  srcname: kde/arkade
+  visiblename: kde/arkade
+  version: scm
+  origversion: null
+  status: rolling
+  summary: Collection of arcade/classic games written in QML
+  maintainers:
+    - fallback-mnt-exherbo@repology
+  categories:
+    - kde
+- repo: homebrew
+  srcname: arkade
+  visiblename: arkade
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Open Source Kubernetes Marketplace
+- repo: nix_stable_24_05
+  srcname: arkade
+  visiblename: arkade
+  version: 0.11.12
+  origversion: null
+  status: outdated
+  summary: Open Source Kubernetes Marketplace
+  maintainers:
+    - welteki@pm.me
+    - techknowlogick@gitea.com
+    - github@une-pause-cafe.fr
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: arkade
+  visiblename: arkade
+  version: 0.11.29
+  origversion: null
+  status: outdated
+  summary: Open Source Kubernetes Marketplace
+  maintainers:
+    - welteki@pm.me
+    - techknowlogick@gitea.com
+    - github@une-pause-cafe.fr
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: arkade
+  visiblename: arkade
+  version: 0.11.38
+  origversion: null
+  status: outdated
+  summary: Open Source Kubernetes Marketplace
+  maintainers:
+    - welteki@pm.me
+    - techknowlogick@gitea.com
+    - github@une-pause-cafe.fr
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: arkade
+  visiblename: arkade
+  version: 0.11.59
+  origversion: null
+  status: outdated
+  summary: Open Source Kubernetes Marketplace
+  maintainers:
+    - welteki@pm.me
+    - techknowlogick@gitea.com
+    - github@une-pause-cafe.fr
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: arkade
+  visiblename: arkade
+  version: 0.11.95
+  origversion: null
+  status: outdated
+  summary: Open Source Kubernetes Marketplace
+  maintainers:
+    - welteki@pm.me
+    - techknowlogick@gitea.com
+    - github@une-pause-cafe.fr
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: arkade
+  visiblename: arkade
+  version: 0.11.116
+  origversion: null
+  status: outdated
+  summary: Open Source Kubernetes Marketplace
+  maintainers:
+    - welteki@pm.me
+    - techknowlogick@gitea.com
+    - github@une-pause-cafe.fr
+  licenses:
+    - MIT
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: arkade
+  binnames:
+    - arkade
+    - arkade-debuginfo
+    - arkade-debugsource
+    - arkade-bash-completion
+    - arkade-zsh-completion
+  visiblename: arkade
+  version: 0.11.125
+  origversion: 0.11.125-1.1
+  status: outdated
+  summary: Open Source Kubernetes Marketplace
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
