@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14733474,
       "digest": "sha256:479709908f32a79e716edd394a966e1689fddbea7eeee5e92056f8888293b8ec",
-      "download_count": 42142,
+      "download_count": 43003,
       "created_at": "2026-08-29T07:39:51Z",
       "updated_at": "2026-08-29T07:39:52Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.126/arkade"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13631650,
       "digest": "sha256:af268fa1f2fa0955749926d564916065478d432d7e1bfbdc23ed6e2802392aa1",
-      "download_count": 1291,
+      "download_count": 1314,
       "created_at": "2026-08-29T07:39:53Z",
       "updated_at": "2026-08-29T07:39:54Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13996530,
       "digest": "sha256:825ae0e3da1e330cbccdc93f2aea8757fe790cfb89c783775bb51fd3572e361e",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-08-29T07:39:57Z",
       "updated_at": "2026-08-29T07:39:58Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-darwin-arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 84,
       "digest": "sha256:bec729f8aa8062e3723787cdc9d9c66d92c544b5ee810384f00a781af02f8f90",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-08-29T07:39:59Z",
       "updated_at": "2026-08-29T07:39:59Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.126/arkade-darwin.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 15254016,
       "digest": "sha256:5b8316eed07f7a584edcdab8bdfe16e582db5ee7b1b001899c1e91a4c05fd1d3",
-      "download_count": 73,
+      "download_count": 77,
       "created_at": "2026-08-29T07:40:00Z",
       "updated_at": "2026-08-29T07:40:00Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.126/arkade.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:e7256b029ba22b6f12bc80a17368fa7ad83cb5c235cd9e156a2924d44ba02205",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-29T07:40:01Z",
       "updated_at": "2026-08-29T07:40:01Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.126/arkade.exe.sha256"
