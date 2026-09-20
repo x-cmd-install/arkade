@@ -4,7 +4,7 @@
 
 Open Source Marketplace For Developer Tools
 
-![arkade](https://repo.x-cmd.io/arkade.svg)
+[![x-cmd/install — arkade Code Quality Monitoring Repo Card](https://repo.x-cmd.io/arkade.svg)](https://x-cmd.com/install/arkade)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,615 · **Forks**: 299 · **Open issues**: 494 · **Contributors**: 91
+- **Stars**: 4,617 · **Forks**: 299 · **Open issues**: 494 · **Contributors**: 91
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 7 | 6 | 5 | 0 | 1 | 18 |
-| last60d | 2026-07-20 | 13 | 14 | 5 | 0 | 2 | 42 |
-| 90d | 2026-06-20 | 26 | 18 | 5 | 1 | 2 | 63 |
-| last180d | 2026-03-22 | 38 | 20 | 5 | 1 | 3 | 79 |
-| 360d | 2025-09-23 | 78 | 37 | 6 | 7 | 7 | 164 |
-| last720d | 2024-09-28 | 99 | 66 | 6 | 22 | 9 | 226 |
+| 30d | 2026-08-21 | 4 | 3 | 3 | 0 | 1 | 5 |
+| last60d | 2026-07-22 | 13 | 14 | 5 | 0 | 2 | 41 |
+| 90d | 2026-06-22 | 26 | 18 | 5 | 0 | 2 | 60 |
+| last180d | 2026-03-24 | 37 | 20 | 5 | 1 | 3 | 76 |
+| 360d | 2025-09-25 | 78 | 37 | 6 | 7 | 7 | 164 |
+| last720d | 2024-09-30 | 98 | 65 | 6 | 22 | 9 | 225 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:12:03Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:18:36Z._
