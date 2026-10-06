@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14962850,
       "digest": "sha256:8494b22b294c811707498fb64728a7f4b2c2cce2ffccd0b6d85f1573e3eae0b7",
-      "download_count": 1687,
+      "download_count": 4983,
       "created_at": "2026-10-03T09:13:49Z",
       "updated_at": "2026-10-03T09:13:51Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.128/arkade"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13893794,
       "digest": "sha256:5782d431a0c564cb0a61721141fcbd08e78d7d0b59f505556b2a13facc203f00",
-      "download_count": 111,
+      "download_count": 269,
       "created_at": "2026-10-03T09:13:51Z",
       "updated_at": "2026-10-03T09:13:52Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.128/arkade-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14352546,
       "digest": "sha256:bd7c4f7e9ac828ce6f3a17ee130822b15ebb6645c5d80fe97438331f7fea9d1f",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-03T09:13:53Z",
       "updated_at": "2026-10-03T09:13:54Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.128/arkade-armhf"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15289600,
       "digest": "sha256:22b88aa511eafe200fb0a4538b642457468ec450c23fc639b8f26afd0fbcb8f1",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-03T09:13:55Z",
       "updated_at": "2026-10-03T09:13:56Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.128/arkade-darwin"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 14207442,
       "digest": "sha256:8dfae6e9732be7dafac9e0f9ec5e6f2a07fb8bcc3a9ffdfab6ceae54d9d4658e",
-      "download_count": 8,
+      "download_count": 13,
       "created_at": "2026-10-03T09:13:56Z",
       "updated_at": "2026-10-03T09:13:57Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.128/arkade-darwin-arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 84,
       "digest": "sha256:e1f94def5b084737f566ed7054592ff77defb9248cacf30f4b4135a5230dab80",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-03T09:13:58Z",
       "updated_at": "2026-10-03T09:13:58Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.128/arkade-darwin.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 15490560,
       "digest": "sha256:bf7dda2789a2c28bcf17f263731d7c551e2dce4e48348b107d9e422a46721f5b",
-      "download_count": 8,
+      "download_count": 14,
       "created_at": "2026-10-03T09:13:58Z",
       "updated_at": "2026-10-03T09:13:59Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.128/arkade.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 77,
       "digest": "sha256:105a2416088cc83fd90438e0e00ebcbffa2e5cdc44fa2857321ade323d64a08c",
-      "download_count": 14,
+      "download_count": 17,
       "created_at": "2026-10-03T09:14:00Z",
       "updated_at": "2026-10-03T09:14:00Z",
       "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.128/arkade.sha256"
