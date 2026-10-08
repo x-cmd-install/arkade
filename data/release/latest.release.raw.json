@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/alexellis/arkade/releases/404523974",
-  "assets_url": "https://api.github.com/repos/alexellis/arkade/releases/404523974/assets",
-  "upload_url": "https://uploads.github.com/repos/alexellis/arkade/releases/404523974/assets{?name,label}",
-  "html_url": "https://github.com/alexellis/arkade/releases/tag/0.11.131",
-  "id": 404523974,
+  "url": "https://api.github.com/repos/alexellis/arkade/releases/405996452",
+  "assets_url": "https://api.github.com/repos/alexellis/arkade/releases/405996452/assets",
+  "upload_url": "https://uploads.github.com/repos/alexellis/arkade/releases/405996452/assets{?name,label}",
+  "html_url": "https://github.com/alexellis/arkade/releases/tag/0.11.132",
+  "id": 405996452,
   "author": {
     "login": "alexellis",
     "id": 6358735,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDODn8jl84YHIvG",
-  "tag_name": "0.11.131",
+  "node_id": "RE_kwDODn8jl84YMwOk",
+  "tag_name": "0.11.132",
   "target_commitish": "master",
-  "name": "Add shfmt and shellcheck to arkade get",
+  "name": "Install Codex with its companion package",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-06T09:18:29Z",
-  "updated_at": "2026-10-06T09:20:06Z",
-  "published_at": "2026-10-06T09:18:50Z",
+  "created_at": "2026-10-07T17:24:32Z",
+  "updated_at": "2026-10-07T17:26:36Z",
+  "published_at": "2026-10-07T17:25:11Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/615048557",
-      "id": 615048557,
-      "node_id": "RA_kwDODn8jl84kqOVt",
+      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/619325881",
+      "id": 619325881,
+      "node_id": "RA_kwDODn8jl84k6im5",
       "name": "arkade",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 14987426,
-      "digest": "sha256:801edcac4a5f66fce882eb063125a2f115ca31c71653ff064631510154cc4d5e",
-      "download_count": 3227,
-      "created_at": "2026-10-06T09:19:40Z",
-      "updated_at": "2026-10-06T09:19:41Z",
-      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.131/arkade"
+      "digest": "sha256:4c7f41b19d8deb908ed3e32b0f8bff0e0c3b62962611ece6537906160ca5cb19",
+      "download_count": 1284,
+      "created_at": "2026-10-07T17:26:13Z",
+      "updated_at": "2026-10-07T17:26:14Z",
+      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.132/arkade"
     },
     {
-      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/615048618",
-      "id": 615048618,
-      "node_id": "RA_kwDODn8jl84kqOWq",
+      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/619325915",
+      "id": 619325915,
+      "node_id": "RA_kwDODn8jl84k6inb",
       "name": "arkade-arm64",
       "label": "",
       "uploader": {
@@ -102,16 +102,16 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 13893794,
-      "digest": "sha256:aa4964f8bab13cf282b83f29302027283617b307307f3991c57cbcf931e3d56f",
-      "download_count": 96,
-      "created_at": "2026-10-06T09:19:42Z",
-      "updated_at": "2026-10-06T09:19:43Z",
-      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.131/arkade-arm64"
+      "digest": "sha256:2cc1dc076d44f70493120ba915dd90013441af30d57f72f448a23fafb6130b10",
+      "download_count": 30,
+      "created_at": "2026-10-07T17:26:14Z",
+      "updated_at": "2026-10-07T17:26:15Z",
+      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.132/arkade-arm64"
     },
     {
-      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/615048660",
-      "id": 615048660,
-      "node_id": "RA_kwDODn8jl84kqOXU",
+      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/619325946",
+      "id": 619325946,
+      "node_id": "RA_kwDODn8jl84k6in6",
       "name": "arkade-arm64.sha256",
       "label": "",
       "uploader": {
@@ -138,16 +138,16 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 83,
-      "digest": "sha256:cd8aa418cdb8d95a07252a30419dc5a47410dad400103ad2cb5b9b13ca454709",
-      "download_count": 3,
-      "created_at": "2026-10-06T09:19:43Z",
-      "updated_at": "2026-10-06T09:19:44Z",
-      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.131/arkade-arm64.sha256"
+      "digest": "sha256:0259894c2192c73a9daf2c757aeae7f99950d9b6b665e215ff290c1257f32576",
+      "download_count": 6,
+      "created_at": "2026-10-07T17:26:16Z",
+      "updated_at": "2026-10-07T17:26:16Z",
+      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.132/arkade-arm64.sha256"
     },
     {
-      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/615048668",
-      "id": 615048668,
-      "node_id": "RA_kwDODn8jl84kqOXc",
+      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/619325967",
+      "id": 619325967,
+      "node_id": "RA_kwDODn8jl84k6ioP",
       "name": "arkade-armhf",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "binary/octet-stream",
       "state": "uploaded",
-      "size": 14352546,
-      "digest": "sha256:e9d5d5754ca74f7b2016b7bc819c4a33bdcd95c3f7ccdaf46cba7a5b85562cfd",
+      "size": 14418082,
+      "digest": "sha256:92363021e5797e16f4d13e80a6b46e303021cfd53178e0de2c73fcb717ec197c",
       "download_count": 2,
-      "created_at": "2026-10-06T09:19:44Z",
-      "updated_at": "2026-10-06T09:19:45Z",
-      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.131/arkade-armhf"
+      "created_at": "2026-10-07T17:26:16Z",
+      "updated_at": "2026-10-07T17:26:17Z",
+      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.132/arkade-armhf"
     },
     {
-      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/615048707",
-      "id": 615048707,
-      "node_id": "RA_kwDODn8jl84kqOYD",
+      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/619326012",
+      "id": 619326012,
+      "node_id": "RA_kwDODn8jl84k6io8",
       "name": "arkade-armhf.sha256",
       "label": "",
       "uploader": {
@@ -210,16 +210,16 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 83,
-      "digest": "sha256:941600e908cc5286b1b4e64c901f39f0ecca713efe97eaf58a6f766461cc811e",
+      "digest": "sha256:f8384731070e4f2830f61575ee6b1ee981cd72294f37fce03045405f18ebf9e1",
       "download_count": 3,
-      "created_at": "2026-10-06T09:19:45Z",
-      "updated_at": "2026-10-06T09:19:45Z",
-      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.131/arkade-armhf.sha256"
+      "created_at": "2026-10-07T17:26:17Z",
+      "updated_at": "2026-10-07T17:26:18Z",
+      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.132/arkade-armhf.sha256"
     },
     {
-      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/615048717",
-      "id": 615048717,
-      "node_id": "RA_kwDODn8jl84kqOYN",
+      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/619326033",
+      "id": 619326033,
+      "node_id": "RA_kwDODn8jl84k6ipR",
       "name": "arkade-darwin",
       "label": "",
       "uploader": {
@@ -245,17 +245,17 @@
       },
       "content_type": "binary/octet-stream",
       "state": "uploaded",
-      "size": 15314400,
-      "digest": "sha256:7f93c88be09ffaf824936cfdb37f20db23284e10dc39bb2b6b6bc420dfad8695",
-      "download_count": 5,
-      "created_at": "2026-10-06T09:19:46Z",
-      "updated_at": "2026-10-06T09:19:47Z",
-      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.131/arkade-darwin"
+      "size": 15318496,
+      "digest": "sha256:c510be7ae7174d505d905b326708523d1e1090069db758357de0434b5c3e6677",
+      "download_count": 2,
+      "created_at": "2026-10-07T17:26:18Z",
+      "updated_at": "2026-10-07T17:26:19Z",
+      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.132/arkade-darwin"
     },
     {
-      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/615048761",
-      "id": 615048761,
-      "node_id": "RA_kwDODn8jl84kqOY5",
+      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/619326052",
+      "id": 619326052,
+      "node_id": "RA_kwDODn8jl84k6ipk",
       "name": "arkade-darwin-arm64",
       "label": "",
       "uploader": {
@@ -281,17 +281,17 @@
       },
       "content_type": "binary/octet-stream",
       "state": "uploaded",
-      "size": 14240690,
-      "digest": "sha256:b20f4db317b14597b81cc944027824639d61bd57d7a2cf5a678aabd1c9f4312d",
-      "download_count": 6,
-      "created_at": "2026-10-06T09:19:47Z",
-      "updated_at": "2026-10-06T09:19:48Z",
-      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.131/arkade-darwin-arm64"
+      "size": 14257202,
+      "digest": "sha256:e76973fd9a63441a751702296586156bbf98424929564d7c39fab9038272e44a",
+      "download_count": 3,
+      "created_at": "2026-10-07T17:26:19Z",
+      "updated_at": "2026-10-07T17:26:20Z",
+      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.132/arkade-darwin-arm64"
     },
     {
-      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/615048805",
-      "id": 615048805,
-      "node_id": "RA_kwDODn8jl84kqOZl",
+      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/619326085",
+      "id": 619326085,
+      "node_id": "RA_kwDODn8jl84k6iqF",
       "name": "arkade-darwin-arm64.sha256",
       "label": "",
       "uploader": {
@@ -318,16 +318,16 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 90,
-      "digest": "sha256:74500703e96895b9a92b6ed863ffb9bab097dc8f48b20f236b6f6c36b25e3fcb",
+      "digest": "sha256:5fe885d64f476919f6f23236697ca614c87bedd669d08364e81d8d760836afb9",
       "download_count": 3,
-      "created_at": "2026-10-06T09:19:49Z",
-      "updated_at": "2026-10-06T09:19:49Z",
-      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.131/arkade-darwin-arm64.sha256"
+      "created_at": "2026-10-07T17:26:21Z",
+      "updated_at": "2026-10-07T17:26:21Z",
+      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.132/arkade-darwin-arm64.sha256"
     },
     {
-      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/615048814",
-      "id": 615048814,
-      "node_id": "RA_kwDODn8jl84kqOZu",
+      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/619326100",
+      "id": 619326100,
+      "node_id": "RA_kwDODn8jl84k6iqU",
       "name": "arkade-darwin.sha256",
       "label": "",
       "uploader": {
@@ -354,16 +354,16 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 84,
-      "digest": "sha256:df4813413e1869f4473b23fc64e08e15ca37ef9ff1ba2a078636ad7c8a7629f5",
+      "digest": "sha256:b0f09a7d929e458a114e7846c6cc0691d6b097a9a08d44ddac0cef3928c02c1e",
       "download_count": 4,
-      "created_at": "2026-10-06T09:19:49Z",
-      "updated_at": "2026-10-06T09:19:50Z",
-      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.131/arkade-darwin.sha256"
+      "created_at": "2026-10-07T17:26:21Z",
+      "updated_at": "2026-10-07T17:26:21Z",
+      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.132/arkade-darwin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/615048835",
-      "id": 615048835,
-      "node_id": "RA_kwDODn8jl84kqOaD",
+      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/619326129",
+      "id": 619326129,
+      "node_id": "RA_kwDODn8jl84k6iqx",
       "name": "arkade.exe",
       "label": "",
       "uploader": {
@@ -389,17 +389,17 @@
       },
       "content_type": "binary/octet-stream",
       "state": "uploaded",
-      "size": 15514624,
-      "digest": "sha256:eb20b80df42115d8fe7871c735e709ede44c3ed12322bea924c715dc3563b7d6",
-      "download_count": 6,
-      "created_at": "2026-10-06T09:19:50Z",
-      "updated_at": "2026-10-06T09:19:52Z",
-      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.131/arkade.exe"
+      "size": 15518208,
+      "digest": "sha256:b6d235bf684799275c55650d3d895c4550f29de08d6d677a08d9f50583a5042f",
+      "download_count": 4,
+      "created_at": "2026-10-07T17:26:22Z",
+      "updated_at": "2026-10-07T17:26:23Z",
+      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.132/arkade.exe"
     },
     {
-      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/615048912",
-      "id": 615048912,
-      "node_id": "RA_kwDODn8jl84kqObQ",
+      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/619326151",
+      "id": 619326151,
+      "node_id": "RA_kwDODn8jl84k6irH",
       "name": "arkade.exe.sha256",
       "label": "",
       "uploader": {
@@ -426,16 +426,16 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 81,
-      "digest": "sha256:92a4904a87d995150bcf3864a4b3f8c0d9b4d41900289409c16660b8d493055d",
+      "digest": "sha256:3eede0101ab871e575c722a7e05970c033113548dccc38957a962efb95f22e3e",
       "download_count": 3,
-      "created_at": "2026-10-06T09:19:53Z",
-      "updated_at": "2026-10-06T09:19:53Z",
-      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.131/arkade.exe.sha256"
+      "created_at": "2026-10-07T17:26:23Z",
+      "updated_at": "2026-10-07T17:26:23Z",
+      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.132/arkade.exe.sha256"
     },
     {
-      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/615048923",
-      "id": 615048923,
-      "node_id": "RA_kwDODn8jl84kqObb",
+      "url": "https://api.github.com/repos/alexellis/arkade/releases/assets/619326166",
+      "id": 619326166,
+      "node_id": "RA_kwDODn8jl84k6irW",
       "name": "arkade.sha256",
       "label": "",
       "uploader": {
@@ -462,15 +462,15 @@
       "content_type": "binary/octet-stream",
       "state": "uploaded",
       "size": 77,
-      "digest": "sha256:ff30e5e08a169ee2e17b0bc29d1776faaf6e86fed44bec4f82e830b49b9abe86",
-      "download_count": 9,
-      "created_at": "2026-10-06T09:19:53Z",
-      "updated_at": "2026-10-06T09:19:54Z",
-      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.131/arkade.sha256"
+      "digest": "sha256:a11d9733570ed52eb0ad7477eb7d8b62f7c9d99d72cdb758f24d0a0828394d1f",
+      "download_count": 4,
+      "created_at": "2026-10-07T17:26:23Z",
+      "updated_at": "2026-10-07T17:26:24Z",
+      "browser_download_url": "https://github.com/alexellis/arkade/releases/download/0.11.132/arkade.sha256"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/alexellis/arkade/tarball/0.11.131",
-  "zipball_url": "https://api.github.com/repos/alexellis/arkade/zipball/0.11.131",
-  "body": "Changelog for 0.11.131:\n* PR #1293 Add shfmt and shellcheck to arkade get by @alexellis\n\nCommits\n00a84291259b25bc0598540285d9931b252696da Add shfmt and shellcheck to arkade get by @alexellis\n\nChanges: https://github.com/alexellis/arkade/compare/0.11.130...0.11.131\n\nGenerated by [Derek](https://github.com/alexellis/derek/)\n",
+  "tarball_url": "https://api.github.com/repos/alexellis/arkade/tarball/0.11.132",
+  "zipball_url": "https://api.github.com/repos/alexellis/arkade/zipball/0.11.132",
+  "body": "Changelog for 0.11.132:\n* PR #1296 Install Codex with its companion package by @alexellis\n* PR #1294 Install Crossplane from the stable chart by @alexellis\n\nCommits\n8b8a849ed4f9b54952f2a3b27168648f8fea31f2 Install Codex with its companion package by @alexellis\nb4ef020d7302491b0d5a4ccd792b27161e154889 Install Crossplane from the stable chart by @alexellis\n\nChanges: https://github.com/alexellis/arkade/compare/0.11.131...0.11.132\n\nGenerated by [Derek](https://github.com/alexellis/derek/)\n",
   "mentions_count": 1
 }
