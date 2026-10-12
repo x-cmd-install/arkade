@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,623 · **Forks**: 301 · **Open issues**: 495 · **Contributors**: 91
+- **Stars**: 4,624 · **Forks**: 301 · **Open issues**: 495 · **Contributors**: 91
 
 ## Totals (cumulative)
 
-- **Releases**: 357 · **Merged PRs**: 579 · **Open PRs**: 2 · **Closed issues**: 483 · **Open issues**: 12 · **Commits**: 1234
+- **Releases**: 357 · **Merged PRs**: 579 · **Open PRs**: 3 · **Closed issues**: 483 · **Open issues**: 12 · **Commits**: 1234
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 6 | 5 | 2 | 0 | 1 | 17 |
-| last60d | 2026-08-12 | 15 | 17 | 2 | 0 | 2 | 46 |
-| 90d | 2026-07-13 | 19 | 19 | 2 | 0 | 3 | 59 |
-| last180d | 2026-04-14 | 39 | 25 | 2 | 1 | 4 | 91 |
-| 360d | 2025-10-16 | 82 | 40 | 2 | 7 | 7 | 176 |
-| last720d | 2024-10-21 | 100 | 68 | 2 | 23 | 9 | 242 |
+| 30d | 2026-09-12 | 6 | 5 | 3 | 0 | 1 | 17 |
+| last60d | 2026-08-13 | 15 | 15 | 3 | 0 | 2 | 46 |
+| 90d | 2026-07-14 | 19 | 19 | 3 | 0 | 3 | 59 |
+| last180d | 2026-04-15 | 39 | 25 | 3 | 1 | 4 | 91 |
+| 360d | 2025-10-17 | 82 | 40 | 3 | 7 | 7 | 176 |
+| last720d | 2024-10-22 | 100 | 68 | 3 | 23 | 9 | 242 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:03:53Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:24:58Z._
