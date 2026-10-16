@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 6 | 5 | 7 | 0 | 1 | 17 |
-| last60d | 2026-08-16 | 13 | 13 | 7 | 0 | 2 | 46 |
-| 90d | 2026-07-17 | 19 | 19 | 7 | 0 | 3 | 59 |
-| last180d | 2026-04-18 | 39 | 25 | 7 | 1 | 4 | 91 |
-| 360d | 2025-10-20 | 81 | 40 | 7 | 7 | 7 | 176 |
-| last720d | 2024-10-25 | 100 | 67 | 7 | 23 | 9 | 241 |
+| 30d | 2026-09-16 | 6 | 5 | 7 | 0 | 1 | 17 |
+| last60d | 2026-08-17 | 13 | 13 | 7 | 0 | 2 | 46 |
+| 90d | 2026-07-18 | 19 | 19 | 7 | 0 | 3 | 59 |
+| last180d | 2026-04-19 | 39 | 25 | 7 | 1 | 4 | 91 |
+| 360d | 2025-10-21 | 81 | 40 | 7 | 7 | 7 | 176 |
+| last720d | 2024-10-26 | 100 | 65 | 7 | 23 | 9 | 240 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:00:18Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:54:58Z._
