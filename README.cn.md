@@ -14,11 +14,11 @@ x install arkade
 
 ## 代码洞察
 
-合计: **353,223** 行代码（覆盖前 5 种语言、共 **1197** 个文件）。
+合计: **353,366** 行代码（覆盖前 5 种语言、共 **1199** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 333,047 | 39,954 | 40,170 | 1122 |
+| Go | 333,190 | 39,958 | 40,180 | 1124 |
 | AssemblyGAS | 18,437 | 1,523 | 3,324 | 51 |
 | Sh | 1,220 | 65 | 103 | 11 |
 | Makefile | 303 | 37 | 71 | 8 |
@@ -42,45 +42,45 @@ x install arkade
 
 ## 发布
 
-- **最新版本**: `0.11.133` (2026-10-22)
-- **最近提交**: 2026-10-22
+- **最新版本**: `0.11.134` (2026-10-23)
+- **最近提交**: 2026-10-23
 - **Release 含资产**: 12 个
 
 ## 流行度
 
-- **Star**: 4,624 · **Fork**: 302 · **开放 issue**: 497 · **贡献者**: 90
+- **Star**: 4,623 · **Fork**: 302 · **开放 issue**: 497 · **贡献者**: 90
 
 ## 累计统计
 
-- **发布数**: 358 · **已合并 PR**: 580 · **开放 PR**: 4 · **已关闭 issue**: 483 · **开放 issue**: 14 · **提交数**: 1235
+- **发布数**: 359 · **已合并 PR**: 581 · **开放 PR**: 4 · **已关闭 issue**: 483 · **开放 issue**: 14 · **提交数**: 1236
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 7 | 5 | 4 | 0 | 3 | 18 |
-| last60d | 2026-08-24 | 9 | 8 | 4 | 0 | 4 | 23 |
-| 90d | 2026-07-25 | 20 | 19 | 4 | 0 | 5 | 60 |
-| last180d | 2026-04-26 | 40 | 25 | 4 | 1 | 6 | 92 |
-| 360d | 2025-10-28 | 80 | 40 | 4 | 7 | 9 | 171 |
-| last720d | 2024-11-02 | 100 | 64 | 4 | 23 | 11 | 238 |
+| 30d | 2026-09-24 | 8 | 6 | 4 | 0 | 3 | 19 |
+| last60d | 2026-08-25 | 10 | 9 | 4 | 0 | 4 | 24 |
+| 90d | 2026-07-26 | 21 | 20 | 4 | 0 | 5 | 61 |
+| last180d | 2026-04-27 | 41 | 26 | 4 | 1 | 6 | 93 |
+| 360d | 2025-10-29 | 81 | 41 | 4 | 7 | 9 | 172 |
+| last720d | 2024-11-03 | 100 | 65 | 4 | 23 | 11 | 239 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [arkade](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade) | 14.8 MiB | `other` |
-| [arkade-arm64](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-arm64) | 13.6 MiB | `other` |
-| [arkade-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-arm64.sha256) | 83 B | `other` |
-| [arkade-armhf](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-armhf) | 14.4 MiB | `other` |
-| [arkade-armhf.sha256](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-armhf.sha256) | 83 B | `other` |
-| [arkade-darwin](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-darwin) | 15.1 MiB | `native/darwin/x64` |
-| [arkade-darwin-arm64](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-darwin-arm64) | 14.0 MiB | `native/darwin/arm64` |
-| [arkade-darwin-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-darwin-arm64.sha256) | 90 B | `native/darwin/arm64` |
-| [arkade-darwin.sha256](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-darwin.sha256) | 84 B | `native/darwin/x64` |
-| [arkade.exe](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade.exe) | 15.2 MiB | `other` |
-| [arkade.exe.sha256](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade.exe.sha256) | 81 B | `other` |
-| [arkade.sha256](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade.sha256) | 77 B | `other` |
+| [arkade](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade) | 14.8 MiB | `other` |
+| [arkade-arm64](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-arm64) | 13.6 MiB | `other` |
+| [arkade-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-arm64.sha256) | 83 B | `other` |
+| [arkade-armhf](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-armhf) | 14.4 MiB | `other` |
+| [arkade-armhf.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-armhf.sha256) | 83 B | `other` |
+| [arkade-darwin](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-darwin) | 15.1 MiB | `native/darwin/x64` |
+| [arkade-darwin-arm64](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-darwin-arm64) | 14.0 MiB | `native/darwin/arm64` |
+| [arkade-darwin-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-darwin-arm64.sha256) | 90 B | `native/darwin/arm64` |
+| [arkade-darwin.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-darwin.sha256) | 84 B | `native/darwin/x64` |
+| [arkade.exe](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade.exe) | 15.3 MiB | `other` |
+| [arkade.exe.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade.exe.sha256) | 81 B | `other` |
+| [arkade.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade.sha256) | 77 B | `other` |
 
 ## 发行版状态
 
@@ -88,7 +88,7 @@ x install arkade
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.11.133` | ✅ latest |
+| Homebrew | `0.11.134` | ✅ latest |
 | Nix unstable | `0.11.116` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.11.128` | ⚠️ outdated |
 
@@ -101,4 +101,4 @@ arkade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T05:04:24Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T04:57:20Z._

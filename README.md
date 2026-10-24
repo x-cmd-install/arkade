@@ -14,11 +14,11 @@ x install arkade
 
 ## Code insight
 
-Total: **353,223** lines of code across **1197** files in the top 5 languages.
+Total: **353,366** lines of code across **1199** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 333,047 | 39,954 | 40,170 | 1122 |
+| Go | 333,190 | 39,958 | 40,180 | 1124 |
 | AssemblyGAS | 18,437 | 1,523 | 3,324 | 51 |
 | Sh | 1,220 | 65 | 103 | 11 |
 | Makefile | 303 | 37 | 71 | 8 |
@@ -42,45 +42,45 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `0.11.133` (2026-10-22)
-- **Last commit**: 2026-10-22
+- **Latest**: `0.11.134` (2026-10-23)
+- **Last commit**: 2026-10-23
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 4,624 · **Forks**: 302 · **Open issues**: 497 · **Contributors**: 90
+- **Stars**: 4,623 · **Forks**: 302 · **Open issues**: 497 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 358 · **Merged PRs**: 580 · **Open PRs**: 4 · **Closed issues**: 483 · **Open issues**: 14 · **Commits**: 1235
+- **Releases**: 359 · **Merged PRs**: 581 · **Open PRs**: 4 · **Closed issues**: 483 · **Open issues**: 14 · **Commits**: 1236
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 7 | 5 | 4 | 0 | 3 | 18 |
-| last60d | 2026-08-24 | 9 | 8 | 4 | 0 | 4 | 23 |
-| 90d | 2026-07-25 | 20 | 19 | 4 | 0 | 5 | 60 |
-| last180d | 2026-04-26 | 40 | 25 | 4 | 1 | 6 | 92 |
-| 360d | 2025-10-28 | 80 | 40 | 4 | 7 | 9 | 171 |
-| last720d | 2024-11-02 | 100 | 64 | 4 | 23 | 11 | 238 |
+| 30d | 2026-09-24 | 8 | 6 | 4 | 0 | 3 | 19 |
+| last60d | 2026-08-25 | 10 | 9 | 4 | 0 | 4 | 24 |
+| 90d | 2026-07-26 | 21 | 20 | 4 | 0 | 5 | 61 |
+| last180d | 2026-04-27 | 41 | 26 | 4 | 1 | 6 | 93 |
+| 360d | 2025-10-29 | 81 | 41 | 4 | 7 | 9 | 172 |
+| last720d | 2024-11-03 | 100 | 65 | 4 | 23 | 11 | 239 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [arkade](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade) | 14.8 MiB | `other` |
-| [arkade-arm64](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-arm64) | 13.6 MiB | `other` |
-| [arkade-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-arm64.sha256) | 83 B | `other` |
-| [arkade-armhf](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-armhf) | 14.4 MiB | `other` |
-| [arkade-armhf.sha256](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-armhf.sha256) | 83 B | `other` |
-| [arkade-darwin](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-darwin) | 15.1 MiB | `native/darwin/x64` |
-| [arkade-darwin-arm64](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-darwin-arm64) | 14.0 MiB | `native/darwin/arm64` |
-| [arkade-darwin-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-darwin-arm64.sha256) | 90 B | `native/darwin/arm64` |
-| [arkade-darwin.sha256](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade-darwin.sha256) | 84 B | `native/darwin/x64` |
-| [arkade.exe](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade.exe) | 15.2 MiB | `other` |
-| [arkade.exe.sha256](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade.exe.sha256) | 81 B | `other` |
-| [arkade.sha256](https://github.com/alexellis/arkade/releases/download/0.11.133/arkade.sha256) | 77 B | `other` |
+| [arkade](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade) | 14.8 MiB | `other` |
+| [arkade-arm64](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-arm64) | 13.6 MiB | `other` |
+| [arkade-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-arm64.sha256) | 83 B | `other` |
+| [arkade-armhf](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-armhf) | 14.4 MiB | `other` |
+| [arkade-armhf.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-armhf.sha256) | 83 B | `other` |
+| [arkade-darwin](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-darwin) | 15.1 MiB | `native/darwin/x64` |
+| [arkade-darwin-arm64](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-darwin-arm64) | 14.0 MiB | `native/darwin/arm64` |
+| [arkade-darwin-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-darwin-arm64.sha256) | 90 B | `native/darwin/arm64` |
+| [arkade-darwin.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-darwin.sha256) | 84 B | `native/darwin/x64` |
+| [arkade.exe](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade.exe) | 15.3 MiB | `other` |
+| [arkade.exe.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade.exe.sha256) | 81 B | `other` |
+| [arkade.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade.sha256) | 77 B | `other` |
 
 ## Distribution status
 
@@ -88,7 +88,7 @@ Reported by **12** distros on [repology.org](https://repology.org/project/arkade
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.11.133` | ✅ latest |
+| Homebrew | `0.11.134` | ✅ latest |
 | Nix unstable | `0.11.116` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.11.128` | ⚠️ outdated |
 
@@ -101,4 +101,4 @@ Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:04:24Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:57:19Z._
