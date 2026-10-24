@@ -32,7 +32,7 @@
 - repo: homebrew
   srcname: arkade
   visiblename: arkade
-  version: 0.11.133
+  version: 0.11.134
   origversion: null
   status: newest
   summary: Open Source Kubernetes Marketplace
