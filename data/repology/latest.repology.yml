@@ -13,9 +13,9 @@
 - repo: chocolatey
   binname: arkade
   visiblename: Arkade (Latest)
-  version: 0.11.132
+  version: 0.11.134
   origversion: null
-  status: outdated
+  status: newest
   summary: arkade - The Open Source Kubernetes Marketplace
 - repo: exherbo
   subrepo: kde
