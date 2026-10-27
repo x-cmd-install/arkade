@@ -1,48 +1,3 @@
-- repo: aur
-  srcname: arkade-bin
-  binname: arkade-bin
-  visiblename: arkade-bin
-  version: 0.8.46
-  origversion: 1:0.8.46-1
-  status: outdated
-  summary: Your one-stop CLI for Kubernetes. provides a simple CLI with strongly-typed flags to install charts and apps to your cluster in one command.
-  maintainers:
-    - fallback-mnt-aur@repology
-  licenses:
-    - MIT
-- repo: chocolatey
-  binname: arkade
-  visiblename: Arkade (Latest)
-  version: 0.11.134
-  origversion: null
-  status: newest
-  summary: arkade - The Open Source Kubernetes Marketplace
-- repo: exherbo
-  subrepo: kde
-  srcname: kde/arkade
-  visiblename: kde/arkade
-  version: scm
-  origversion: null
-  status: rolling
-  summary: Collection of arcade/classic games written in QML
-  maintainers:
-    - fallback-mnt-exherbo@repology
-  categories:
-    - kde
-- repo: homebrew
-  srcname: arkade
-  visiblename: arkade
-  version: 0.11.134
-  origversion: null
-  status: newest
-  summary: Open Source Kubernetes Marketplace
-- repo: homebrew
-  srcname: arkade
-  visiblename: arkade
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Open Source Kubernetes Marketplace
 - repo: nix_stable_24_05
   srcname: arkade
   visiblename: arkade
@@ -95,6 +50,51 @@
     - github@une-pause-cafe.fr
   licenses:
     - MIT
+- repo: homebrew
+  srcname: arkade
+  visiblename: arkade
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Open Source Kubernetes Marketplace
+- repo: aur
+  srcname: arkade-bin
+  binname: arkade-bin
+  visiblename: arkade-bin
+  version: 0.8.46
+  origversion: 1:0.8.46-1
+  status: outdated
+  summary: Your one-stop CLI for Kubernetes. provides a simple CLI with strongly-typed flags to install charts and apps to your cluster in one command.
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: arkade
+  visiblename: Arkade (Latest)
+  version: 0.11.134
+  origversion: null
+  status: newest
+  summary: arkade - The Open Source Kubernetes Marketplace
+- repo: exherbo
+  subrepo: kde
+  srcname: kde/arkade
+  visiblename: kde/arkade
+  version: scm
+  origversion: null
+  status: rolling
+  summary: Collection of arcade/classic games written in QML
+  maintainers:
+    - fallback-mnt-exherbo@repology
+  categories:
+    - kde
+- repo: homebrew
+  srcname: arkade
+  visiblename: arkade
+  version: 0.11.134
+  origversion: null
+  status: newest
+  summary: Open Source Kubernetes Marketplace
 - repo: nix_stable_26_05
   srcname: arkade
   visiblename: arkade
@@ -131,8 +131,8 @@
     - arkade-bash-completion
     - arkade-zsh-completion
   visiblename: arkade
-  version: 0.11.128
-  origversion: 0.11.128-1.1
+  version: 0.11.133
+  origversion: 0.11.133-1.1
   status: outdated
   summary: Open Source Kubernetes Marketplace
   licenses:
