@@ -14,11 +14,11 @@ x install arkade
 
 ## Code insight
 
-Total: **353,366** lines of code across **1199** files in the top 5 languages.
+Total: **353,592** lines of code across **1199** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 333,190 | 39,958 | 40,180 | 1124 |
+| Go | 333,416 | 39,975 | 40,207 | 1124 |
 | AssemblyGAS | 18,437 | 1,523 | 3,324 | 51 |
 | Sh | 1,220 | 65 | 103 | 11 |
 | Makefile | 303 | 37 | 71 | 8 |
@@ -42,55 +42,55 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `0.11.134` (2026-10-23)
-- **Last commit**: 2026-10-23
+- **Latest**: `0.12.0` (2026-11-05)
+- **Last commit**: 2026-11-05
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 4,628 · **Forks**: 302 · **Open issues**: 497 · **Contributors**: 90
+- **Stars**: 4,628 · **Forks**: 303 · **Open issues**: 497 · **Contributors**: 91
 
 ## Totals (cumulative)
 
-- **Releases**: 359 · **Merged PRs**: 581 · **Open PRs**: 4 · **Closed issues**: 483 · **Open issues**: 14 · **Commits**: 1236
+- **Releases**: 360 · **Merged PRs**: 584 · **Open PRs**: 2 · **Closed issues**: 483 · **Open issues**: 14 · **Commits**: 1243
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 6 | 2 | 3 | 0 | 2 | 2 |
-| last60d | 2026-09-06 | 8 | 6 | 4 | 0 | 3 | 19 |
-| 90d | 2026-08-07 | 18 | 18 | 4 | 0 | 4 | 56 |
-| last180d | 2026-05-09 | 41 | 26 | 4 | 1 | 6 | 91 |
-| 360d | 2025-11-10 | 80 | 41 | 4 | 7 | 9 | 168 |
-| last720d | 2024-11-15 | 100 | 63 | 4 | 20 | 11 | 233 |
+| 30d | 2026-10-07 | 4 | 4 | 1 | 0 | 2 | 9 |
+| last60d | 2026-09-07 | 9 | 9 | 2 | 0 | 3 | 26 |
+| 90d | 2026-08-08 | 18 | 21 | 2 | 0 | 4 | 63 |
+| last180d | 2026-05-10 | 42 | 29 | 2 | 1 | 6 | 98 |
+| 360d | 2025-11-11 | 79 | 44 | 2 | 7 | 9 | 175 |
+| last720d | 2024-11-16 | 100 | 66 | 2 | 20 | 11 | 240 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [arkade](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade) | 14.8 MiB | `other` |
-| [arkade-arm64](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-arm64) | 13.6 MiB | `other` |
-| [arkade-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-arm64.sha256) | 83 B | `other` |
-| [arkade-armhf](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-armhf) | 14.4 MiB | `other` |
-| [arkade-armhf.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-armhf.sha256) | 83 B | `other` |
-| [arkade-darwin](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-darwin) | 15.1 MiB | `native/darwin/x64` |
-| [arkade-darwin-arm64](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-darwin-arm64) | 14.0 MiB | `native/darwin/arm64` |
-| [arkade-darwin-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-darwin-arm64.sha256) | 90 B | `native/darwin/arm64` |
-| [arkade-darwin.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade-darwin.sha256) | 84 B | `native/darwin/x64` |
-| [arkade.exe](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade.exe) | 15.3 MiB | `other` |
-| [arkade.exe.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade.exe.sha256) | 81 B | `other` |
-| [arkade.sha256](https://github.com/alexellis/arkade/releases/download/0.11.134/arkade.sha256) | 77 B | `other` |
+| [arkade](https://github.com/alexellis/arkade/releases/download/0.12.0/arkade) | 14.8 MiB | `other` |
+| [arkade-arm64](https://github.com/alexellis/arkade/releases/download/0.12.0/arkade-arm64) | 13.6 MiB | `other` |
+| [arkade-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.12.0/arkade-arm64.sha256) | 83 B | `other` |
+| [arkade-armhf](https://github.com/alexellis/arkade/releases/download/0.12.0/arkade-armhf) | 14.4 MiB | `other` |
+| [arkade-armhf.sha256](https://github.com/alexellis/arkade/releases/download/0.12.0/arkade-armhf.sha256) | 83 B | `other` |
+| [arkade-darwin](https://github.com/alexellis/arkade/releases/download/0.12.0/arkade-darwin) | 15.1 MiB | `native/darwin/x64` |
+| [arkade-darwin-arm64](https://github.com/alexellis/arkade/releases/download/0.12.0/arkade-darwin-arm64) | 14.0 MiB | `native/darwin/arm64` |
+| [arkade-darwin-arm64.sha256](https://github.com/alexellis/arkade/releases/download/0.12.0/arkade-darwin-arm64.sha256) | 90 B | `native/darwin/arm64` |
+| [arkade-darwin.sha256](https://github.com/alexellis/arkade/releases/download/0.12.0/arkade-darwin.sha256) | 84 B | `native/darwin/x64` |
+| [arkade.exe](https://github.com/alexellis/arkade/releases/download/0.12.0/arkade.exe) | 15.3 MiB | `other` |
+| [arkade.exe.sha256](https://github.com/alexellis/arkade/releases/download/0.12.0/arkade.exe.sha256) | 81 B | `other` |
+| [arkade.sha256](https://github.com/alexellis/arkade/releases/download/0.12.0/arkade.sha256) | 77 B | `other` |
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/arkade). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/arkade). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.11.134` | ✅ latest |
+| Homebrew | `0.12.0` | ✅ latest |
 | Nix unstable | `0.11.116` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.11.134` | ✅ latest |
+| openSUSE Tumbleweed | `0.11.134` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -101,4 +101,4 @@ Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:05:49Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:03:11Z._
