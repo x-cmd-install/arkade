@@ -1,9 +1,22 @@
+- repo: nix_stable_25_05
+  srcname: arkade
+  visiblename: arkade
+  version: 0.11.38
+  origversion: null
+  status: outdated
+  summary: Open Source Kubernetes Marketplace
+  maintainers:
+    - welteki@pm.me
+    - techknowlogick@gitea.com
+    - github@une-pause-cafe.fr
+  licenses:
+    - MIT
 - repo: chocolatey
   binname: arkade
   visiblename: Arkade (Latest)
   version: 0.11.134
   origversion: null
-  status: newest
+  status: outdated
   summary: arkade - The Open Source Kubernetes Marketplace
 - repo: aur
   srcname: arkade-bin
@@ -32,7 +45,7 @@
 - repo: homebrew
   srcname: arkade
   visiblename: arkade
-  version: 0.11.134
+  version: 0.12.0
   origversion: null
   status: newest
   summary: Open Source Kubernetes Marketplace
@@ -60,19 +73,6 @@
   srcname: arkade
   visiblename: arkade
   version: 0.11.29
-  origversion: null
-  status: outdated
-  summary: Open Source Kubernetes Marketplace
-  maintainers:
-    - welteki@pm.me
-    - techknowlogick@gitea.com
-    - github@une-pause-cafe.fr
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: arkade
-  visiblename: arkade
-  version: 0.11.38
   origversion: null
   status: outdated
   summary: Open Source Kubernetes Marketplace
@@ -133,7 +133,7 @@
   visiblename: arkade
   version: 0.11.134
   origversion: 0.11.134-1.1
-  status: newest
+  status: outdated
   summary: Open Source Kubernetes Marketplace
   licenses:
     - Apache-2.0
