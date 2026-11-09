@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 360 · **Merged PRs**: 584 · **Open PRs**: 2 · **Closed issues**: 483 · **Open issues**: 14 · **Commits**: 1243
+- **Releases**: 360 · **Merged PRs**: 584 · **Open PRs**: 3 · **Closed issues**: 483 · **Open issues**: 14 · **Commits**: 1243
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 3 | 4 | 1 | 0 | 2 | 9 |
-| last60d | 2026-09-09 | 9 | 9 | 2 | 0 | 3 | 26 |
-| 90d | 2026-08-10 | 18 | 21 | 2 | 0 | 4 | 63 |
-| last180d | 2026-05-12 | 40 | 29 | 2 | 1 | 6 | 98 |
-| 360d | 2025-11-13 | 78 | 44 | 2 | 7 | 9 | 175 |
-| last720d | 2024-11-18 | 100 | 66 | 2 | 20 | 11 | 240 |
+| 30d | 2026-10-10 | 3 | 4 | 2 | 0 | 2 | 6 |
+| last60d | 2026-09-10 | 9 | 9 | 3 | 0 | 3 | 26 |
+| 90d | 2026-08-11 | 18 | 21 | 3 | 0 | 4 | 55 |
+| last180d | 2026-05-13 | 40 | 29 | 3 | 1 | 6 | 96 |
+| 360d | 2025-11-14 | 78 | 44 | 3 | 7 | 9 | 162 |
+| last720d | 2024-11-19 | 100 | 66 | 3 | 20 | 11 | 240 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:23:10Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:51:54Z._
