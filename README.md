@@ -24,16 +24,6 @@ Total: **353,592** lines of code across **1199** files in the top 5 languages.
 | Makefile | 303 | 37 | 71 | 8 |
 | Yaml | 85 | 9 | 17 | 5 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.8 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/19 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/alexellis/arkade>
@@ -48,7 +38,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,628 · **Forks**: 303 · **Open issues**: 497 · **Contributors**: 91
+- **Stars**: 4,629 · **Forks**: 303 · **Open issues**: 497 · **Contributors**: 91
 
 ## Totals (cumulative)
 
@@ -58,12 +48,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 3 | 4 | 2 | 0 | 2 | 6 |
-| last60d | 2026-09-10 | 9 | 9 | 3 | 0 | 3 | 26 |
-| 90d | 2026-08-11 | 18 | 21 | 3 | 0 | 4 | 55 |
-| last180d | 2026-05-13 | 40 | 29 | 3 | 1 | 6 | 96 |
-| 360d | 2025-11-14 | 78 | 44 | 3 | 7 | 9 | 162 |
-| last720d | 2024-11-19 | 100 | 66 | 3 | 20 | 11 | 240 |
+| 30d | 2026-10-11 | 3 | 4 | 2 | 0 | 2 | 6 |
+| last60d | 2026-09-11 | 9 | 9 | 3 | 0 | 3 | 26 |
+| 90d | 2026-08-12 | 18 | 21 | 3 | 0 | 4 | 55 |
+| last180d | 2026-05-14 | 39 | 29 | 3 | 1 | 6 | 96 |
+| 360d | 2025-11-15 | 77 | 42 | 3 | 7 | 9 | 162 |
+| last720d | 2024-11-20 | 100 | 66 | 3 | 20 | 11 | 240 |
 
 ## Release assets
 
@@ -84,13 +74,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/arkade). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/arkade). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.12.0` | ✅ latest |
 | Nix unstable | `0.11.116` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.11.134` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.12.0` | ✅ latest |
 
 ## Improve this data
 
@@ -101,4 +91,4 @@ Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:51:54Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:41:27Z._
