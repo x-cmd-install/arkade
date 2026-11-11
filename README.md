@@ -48,12 +48,12 @@ Total: **353,592** lines of code across **1199** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 3 | 4 | 2 | 0 | 2 | 6 |
-| last60d | 2026-09-11 | 9 | 9 | 3 | 0 | 3 | 26 |
-| 90d | 2026-08-12 | 18 | 21 | 3 | 0 | 4 | 55 |
-| last180d | 2026-05-14 | 39 | 29 | 3 | 1 | 6 | 96 |
-| 360d | 2025-11-15 | 77 | 42 | 3 | 7 | 9 | 162 |
-| last720d | 2024-11-20 | 100 | 66 | 3 | 20 | 11 | 240 |
+| 30d | 2026-10-12 | 3 | 4 | 2 | 0 | 2 | 6 |
+| last60d | 2026-09-12 | 9 | 9 | 3 | 0 | 3 | 26 |
+| 90d | 2026-08-13 | 18 | 19 | 3 | 0 | 4 | 55 |
+| last180d | 2026-05-15 | 39 | 29 | 3 | 1 | 6 | 96 |
+| 360d | 2025-11-16 | 77 | 42 | 3 | 7 | 9 | 162 |
+| last720d | 2024-11-21 | 100 | 65 | 3 | 20 | 11 | 240 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:41:27Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:45:15Z._
