@@ -32,7 +32,7 @@
 - repo: homebrew
   srcname: arkade
   visiblename: arkade
-  version: 0.12.0
+  version: 0.12.1
   origversion: null
   status: newest
   summary: Open Source Kubernetes Marketplace
@@ -133,7 +133,7 @@
   visiblename: arkade
   version: 0.12.0
   origversion: 0.12.0-1.1
-  status: newest
+  status: outdated
   summary: Open Source Kubernetes Marketplace
   licenses:
     - Apache-2.0
