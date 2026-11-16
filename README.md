@@ -38,22 +38,22 @@ Total: **353,701** lines of code across **1199** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,631 · **Forks**: 303 · **Open issues**: 497 · **Contributors**: 91
+- **Stars**: 4,632 · **Forks**: 303 · **Open issues**: 497 · **Contributors**: 91
 
 ## Totals (cumulative)
 
-- **Releases**: 361 · **Merged PRs**: 585 · **Open PRs**: 4 · **Closed issues**: 483 · **Open issues**: 14 · **Commits**: 1244
+- **Releases**: 361 · **Merged PRs**: 585 · **Open PRs**: 5 · **Closed issues**: 483 · **Open issues**: 14 · **Commits**: 1244
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 4 | 3 | 3 | 0 | 0 | 7 |
-| last60d | 2026-09-16 | 10 | 10 | 4 | 0 | 3 | 27 |
-| 90d | 2026-08-17 | 17 | 18 | 4 | 0 | 4 | 56 |
-| last180d | 2026-05-19 | 39 | 30 | 4 | 1 | 6 | 97 |
-| 360d | 2025-11-20 | 77 | 38 | 4 | 6 | 9 | 163 |
-| last720d | 2024-11-25 | 100 | 66 | 4 | 20 | 11 | 241 |
+| 30d | 2026-10-17 | 4 | 3 | 4 | 0 | 0 | 6 |
+| last60d | 2026-09-17 | 10 | 10 | 5 | 0 | 3 | 27 |
+| 90d | 2026-08-18 | 17 | 18 | 5 | 0 | 4 | 32 |
+| last180d | 2026-05-20 | 39 | 29 | 5 | 1 | 6 | 93 |
+| 360d | 2025-11-21 | 77 | 38 | 5 | 6 | 9 | 160 |
+| last720d | 2024-11-26 | 100 | 66 | 5 | 20 | 11 | 241 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Total: **353,701** lines of code across **1199** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/arkade). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/arkade). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:50:25Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:58:45Z._
