@@ -24,6 +24,16 @@ Total: **353,701** lines of code across **1199** files in the top 5 languages.
 | Makefile | 303 | 37 | 71 | 8 |
 | Yaml | 85 | 9 | 17 | 5 |
 
+## OpenSSF Scorecard
+
+Overall score: **3.8 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 1/18 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/alexellis/arkade>
@@ -48,12 +58,12 @@ Total: **353,701** lines of code across **1199** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 4 | 3 | 4 | 0 | 0 | 6 |
-| last60d | 2026-09-18 | 10 | 10 | 5 | 0 | 3 | 27 |
-| 90d | 2026-08-19 | 17 | 16 | 5 | 0 | 4 | 32 |
-| last180d | 2026-05-21 | 38 | 29 | 5 | 1 | 5 | 93 |
-| 360d | 2025-11-22 | 77 | 38 | 5 | 6 | 9 | 160 |
-| last720d | 2024-11-27 | 100 | 66 | 5 | 20 | 11 | 241 |
+| 30d | 2026-10-20 | 4 | 3 | 4 | 0 | 0 | 6 |
+| last60d | 2026-09-20 | 10 | 10 | 5 | 0 | 3 | 27 |
+| 90d | 2026-08-21 | 14 | 13 | 5 | 0 | 4 | 32 |
+| last180d | 2026-05-23 | 37 | 29 | 5 | 1 | 5 | 93 |
+| 360d | 2025-11-24 | 77 | 37 | 5 | 5 | 9 | 160 |
+| last720d | 2024-11-29 | 100 | 66 | 5 | 20 | 11 | 241 |
 
 ## Release assets
 
@@ -91,4 +101,4 @@ Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:28:27Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:28:27Z._
