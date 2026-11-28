@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 2 | 4 | 0 | 0 | 5 |
-| last60d | 2026-09-28 | 10 | 10 | 5 | 0 | 3 | 27 |
-| 90d | 2026-08-29 | 11 | 13 | 5 | 0 | 3 | 30 |
-| last180d | 2026-05-31 | 37 | 29 | 5 | 1 | 5 | 93 |
-| 360d | 2025-12-02 | 76 | 37 | 5 | 5 | 9 | 160 |
-| last720d | 2024-12-07 | 100 | 66 | 5 | 20 | 11 | 241 |
+| 30d | 2026-10-29 | 2 | 2 | 4 | 0 | 0 | 5 |
+| last60d | 2026-09-29 | 10 | 10 | 5 | 0 | 3 | 27 |
+| 90d | 2026-08-30 | 10 | 13 | 5 | 0 | 3 | 30 |
+| last180d | 2026-06-01 | 37 | 29 | 5 | 1 | 5 | 93 |
+| 360d | 2025-12-03 | 76 | 37 | 5 | 5 | 9 | 160 |
+| last720d | 2024-12-08 | 100 | 66 | 5 | 20 | 11 | 241 |
 
 ## Release assets
 
@@ -82,6 +82,16 @@ Lowest-scoring checks:
 | [arkade.exe.sha256](https://github.com/alexellis/arkade/releases/download/0.12.1/arkade.exe.sha256) | 81 B | `other` |
 | [arkade.sha256](https://github.com/alexellis/arkade/releases/download/0.12.1/arkade.sha256) | 77 B | `other` |
 
+## Distribution status
+
+Reported by **12** distros on [repology.org](https://repology.org/project/arkade). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.12.1` | ✅ latest |
+| Nix unstable | `0.11.116` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.12.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `arkade` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +101,4 @@ Install metadata for arkade lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:16:22Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:54:15Z._
